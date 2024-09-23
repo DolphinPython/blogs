@@ -1,0 +1,37 @@
+[25-Nov-2022 11:11:12 UTC] PHP Warning:  imagecreatefrompng(certi.png): Failed to open stream: No such file or directory in /home3/a1sol84c/public_html/pledge/mail1.php on line 17
+[25-Nov-2022 11:11:12 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home3/a1sol84c/public_html/pledge/mail1.php:23
+Stack trace:
+#0 /home3/a1sol84c/public_html/pledge/mail1.php(23): imagecolorallocate(false, 205, 245, 255)
+#1 {main}
+  thrown in /home3/a1sol84c/public_html/pledge/mail1.php on line 23
+[25-Nov-2022 11:12:26 UTC] PHP Warning:  imagecreatefrompng(): &quot;img/hospital.jpg&quot; is not a valid PNG file in /home3/a1sol84c/public_html/pledge/mail1.php on line 17
+[25-Nov-2022 11:12:26 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home3/a1sol84c/public_html/pledge/mail1.php:23
+Stack trace:
+#0 /home3/a1sol84c/public_html/pledge/mail1.php(23): imagecolorallocate(false, 205, 245, 255)
+#1 {main}
+  thrown in /home3/a1sol84c/public_html/pledge/mail1.php on line 23
+[25-Nov-2022 11:13:01 UTC] PHP Warning:  imagecreatefrompng(): &quot;img/hospital.jpg&quot; is not a valid PNG file in /home3/a1sol84c/public_html/pledge/mail1.php on line 17
+[25-Nov-2022 11:13:01 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home3/a1sol84c/public_html/pledge/mail1.php:23
+Stack trace:
+#0 /home3/a1sol84c/public_html/pledge/mail1.php(23): imagecolorallocate(false, 205, 245, 255)
+#1 {main}
+  thrown in /home3/a1sol84c/public_html/pledge/mail1.php on line 23
+[25-Nov-2022 11:13:07 UTC] PHP Warning:  imagecreatefrompng(): &quot;img/hospital.jpg&quot; is not a valid PNG file in /home3/a1sol84c/public_html/pledge/mail1.php on line 17
+[25-Nov-2022 11:13:07 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home3/a1sol84c/public_html/pledge/mail1.php:23
+Stack trace:
+#0 /home3/a1sol84c/public_html/pledge/mail1.php(23): imagecolorallocate(false, 205, 245, 255)
+#1 {main}
+  thrown in /home3/a1sol84c/public_html/pledge/mail1.php on line 23
+[25-Nov-2022 11:13:30 UTC] PHP Warning:  imagecreatefrompng(): &quot;img/hospital.jpg&quot; is not a valid PNG file in /home3/a1sol84c/public_html/pledge/mail1.php on line 19
+[25-Nov-2022 11:13:30 UTC] PHP Fatal error:  Uncaught TypeError: imagecolorallocate(): Argument #1 ($image) must be of type GdImage, bool given in /home3/a1sol84c/public_html/pledge/mail1.php:25
+Stack trace:
+#0 /home3/a1sol84c/public_html/pledge/mail1.php(25): imagecolorallocate(false, 205, 245, 255)
+#1 {main}
+  thrown in /home3/a1sol84c/public_html/pledge/mail1.php on line 25
+[25-Nov-2022 11:15:38 UTC] PHP Warning:  Undefined variable $from in /home3/a1sol84c/public_html/pledge/mail1.php on line 6
+[25-Nov-2022 11:15:38 UTC] PHP Warning:  Undefined variable $to in /home3/a1sol84c/public_html/pledge/mail1.php on line 6
+[25-Nov-2022 11:15:38 UTC] PHP Warning:  Undefined variable $to in /home3/a1sol84c/public_html/pledge/mail1.php on line 6
+[25-Nov-2022 11:15:38 UTC] PHP Warning:  Undefined variable $to in /home3/a1sol84c/public_html/pledge/mail1.php on line 6
+[25-Nov-2022 11:15:38 UTC] PHP Warning:  Undefined variable $subject in /home3/a1sol84c/public_html/pledge/mail1.php on line 6
+[25-Nov-2022 11:15:38 UTC] PHP Warning:  Undefined variable $message in /home3/a1sol84c/public_html/pledge/mail1.php on line 6
+[25-Nov-2022 11:15:38 UTC] PHP Warning:  Undefined variable $from in /home3/a1sol84c/public_html/pledge/mail1.php on line 6
